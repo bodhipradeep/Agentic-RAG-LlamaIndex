@@ -1,5 +1,10 @@
 # Agentic RAG System
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/20f338da-fc03-457d-bedc-e2ed42958bca" alt="Image 1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/20f338da-fc03-457d-bedc-e2ed42958bca" alt="Image 2" width="45%" />
+</p>
+
 ---
 
 ![Agentic RAG System Demo](https://github.com/user-attachments/assets/4cb48f6d-6ffa-482b-b09c-6318ef027f29)
