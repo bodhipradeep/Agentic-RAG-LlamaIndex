@@ -2,7 +2,8 @@
 
 ---
 
-![Agentic RAG System Demo](https://github.com/user-attachments/assets/52a9174c-722f-4c66-9412-fb5a13f3559b)
+![Agentic RAG System Demo](https://github.com/user-attachments/assets/4cb48f6d-6ffa-482b-b09c-6318ef027f29)
+
  
 *Demo of the Agentic RAG System in action*
 
