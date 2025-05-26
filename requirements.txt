@@ -1,0 +1,16 @@
+contextlib
+io
+llama-hub
+llama-index
+llama-index-core
+llama-index-embeddings-ollama
+llama-index-experimental
+llama-index-llms-groq
+llama-index-llms-ollama
+llama-index-tools-tavily-research
+matplotlib
+pandas
+python-dotenv
+seaborn
+streamlit
+tavily-python
