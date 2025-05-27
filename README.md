@@ -1,8 +1,8 @@
 # Agentic RAG System
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/20f338da-fc03-457d-bedc-e2ed42958bca" alt="Image 1" width="45%" />
-  <img src="https://github.com/user-attachments/assets/20f338da-fc03-457d-bedc-e2ed42958bca" alt="Image 2" width="45%" />
+  <img src="https://github.com/user-attachments/assets/fbb201c5-4c08-42af-933d-2ab3e2be22c4" alt="Deploying" width="45%" />
+  <img src="https://github.com/user-attachments/assets/71d3159b-4780-4201-be0b-01d0485f58d7" alt="Running" width="45%" />
 </p>
 
 ---
