@@ -18,7 +18,8 @@ The Agentic RAG System is a powerful AI assistant that combines Retrieval-Augmen
 The Agentic RAG System is fully deployable on Google Cloud Platform (GCP). It is containerized and optimized for scalable deployment using services like Google Cloud Run and Cloud Storage.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fbb201c5-4c08-42af-933d-2ab3e2be22c4" alt="Deploying" width="45%" />
+  <img src="https://github.com/user-attachments/assets/fbb201c5-4c08-42af-933d-2ab3e2be22c4" alt="Deploying" width="45%" /> 
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/71d3159b-4780-4201-be0b-01d0485f58d7" alt="Running" width="45%" />
 </p>
 
