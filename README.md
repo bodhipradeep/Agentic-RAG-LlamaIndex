@@ -47,8 +47,7 @@ The Agentic RAG System is fully deployable on Google Cloud Platform (GCP). It is
 
 ## 📄 License
 
-This repository is licensed under the MIT License. See the LICENSE file for details.
-
+This project is licensed under the [MIT License](LICENSE).
 --- 
 
 ## 🔗 **Links & Contact**
