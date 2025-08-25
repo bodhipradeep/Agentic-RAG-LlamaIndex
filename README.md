@@ -53,6 +53,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🔗 **Links & Contact**
 
 - **GitHub Profile:** [Github](https://github.com/pradeep-kumar8/)
-- **LinkedIn:** [Likedin](https://linkedin.com/in/pradeep-kumar8)
+- **LinkedIn:** [Likedin](https://linkedin.com/in/https://www.linkedin.com/in/bodhi-pradeep/)
 - **Email:** [gmail](mailto:pradeep.kmr.pro@gmail.com)
 
